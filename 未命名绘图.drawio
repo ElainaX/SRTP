@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T09:09:53.999Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="v2Rz1LAyC-0gxugvi3-w" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T09:10:26.878Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="qK0LGEsXLgtxCutNlr-9" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1397" dy="1012" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="3117" dy="1762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -262,17 +262,6 @@
         <mxCell id="l2w6q-MAct6ojr39g6QR-90" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;container=0;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-89">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-60" y="-110" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l2w6q-MAct6ojr39g6QR-91" value="" style="shape=link;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2w6q-MAct6ojr39g6QR-13" target="l2w6q-MAct6ojr39g6QR-86">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="492.1739130434782" y="257.5" as="sourcePoint" />
-            <mxPoint x="739.1304347826086" y="257.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l2w6q-MAct6ojr39g6QR-92" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;container=0;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-91">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-10" y="-60" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-93" value="平台提供售后" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;container=0;" vertex="1" parent="1">
@@ -1199,6 +1188,17 @@
         <mxCell id="l2w6q-MAct6ojr39g6QR-356" value="&lt;font color=&quot;#ff66ff&quot;&gt;商品ID&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="l2w6q-MAct6ojr39g6QR-352">
           <mxGeometry x="180" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-372" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2w6q-MAct6ojr39g6QR-13" target="l2w6q-MAct6ojr39g6QR-86">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="310" as="sourcePoint" />
+            <mxPoint x="640" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-373" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;fillColor=default;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-372">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-8" y="-65" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
