@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T01:46:55.173Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="tYFlehTu1f_8BeegBk0D" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T01:51:23.535Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ZbakPCH7u-pa9GjGQUyg" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1688" dy="954" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="965" dy="545" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,10 +11,10 @@
           <mxGeometry x="180" y="120" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-14" value="用户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="430" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-15" value="用户账户" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="530" y="660" width="100" height="40" as="geometry" />
+          <mxGeometry x="520" y="660" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-16" value="购物车" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="820" y="480" width="100" height="40" as="geometry" />
@@ -39,6 +39,31 @@
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-23" value="评论" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="700" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-32" value="用户-账户" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="510" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-33" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2w6q-MAct6ojr39g6QR-14" target="l2w6q-MAct6ojr39g6QR-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="520" as="sourcePoint" />
+            <mxPoint x="610" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-34" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-33">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-35" value="" style="shape=link;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2w6q-MAct6ojr39g6QR-32" target="l2w6q-MAct6ojr39g6QR-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="630" as="sourcePoint" />
+            <mxPoint x="710" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-36" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-35">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-10" y="-20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
