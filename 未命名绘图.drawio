@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T01:58:26.409Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FR7WFQsBpUMlh7mnEHF7" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T01:58:36.119Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="y-aL8SuDdzFK4bsRO9oZ" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1397" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="950" y="30" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-19" value="商品信息" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="950" y="150" width="100" height="40" as="geometry" />
+          <mxGeometry x="950" y="190" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-20" value="仓库" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="180" y="500" width="100" height="40" as="geometry" />
@@ -111,7 +111,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-50" value="N" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="970" y="220" width="30" height="30" as="geometry" />
+          <mxGeometry x="970" y="250" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-51" value="使用商品信息创建订单" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="880" y="540" width="240" height="100" as="geometry" />
