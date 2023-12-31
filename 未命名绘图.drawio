@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-31T09:39:23.869Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rdh-ZkP746WImgS1N8z5" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-31T09:44:41.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="2gvb29yd_3Vkb5xBNcId" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
-    <mxGraphModel dx="1327" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+    <mxGraphModel dx="1106" dy="801" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -192,17 +192,6 @@
             <mxPoint x="30" y="-150" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l2w6q-MAct6ojr39g6QR-79" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="l2w6q-MAct6ojr39g6QR-23" target="l2w6q-MAct6ojr39g6QR-76">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="507.6086956521739" y="1360" as="sourcePoint" />
-            <mxPoint x="754.5652173913043" y="1360" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l2w6q-MAct6ojr39g6QR-80" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;container=0;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-79">
-          <mxGeometry x="1" relative="1" as="geometry">
-            <mxPoint x="-20" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-81" value="账户关联订单" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;container=0;" vertex="1" parent="1">
           <mxGeometry x="1155.869565217391" y="1202.5" width="185.2173913043478" height="105" as="geometry" />
         </mxCell>
@@ -342,7 +331,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l2w6q-MAct6ojr39g6QR-123" value="M" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;container=0;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-122">
+        <mxCell id="l2w6q-MAct6ojr39g6QR-123" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;container=0;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-122">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="30" as="offset" />
           </mxGeometry>
@@ -1199,6 +1188,17 @@
         <mxCell id="l2w6q-MAct6ojr39g6QR-387" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;fillColor=default;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-386">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-14" y="-34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-388" value="" style="shape=link;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.012;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="l2w6q-MAct6ojr39g6QR-23" target="l2w6q-MAct6ojr39g6QR-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="1350" as="sourcePoint" />
+            <mxPoint x="640" y="1350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="l2w6q-MAct6ojr39g6QR-389" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;fillColor=default;" connectable="0" vertex="1" parent="l2w6q-MAct6ojr39g6QR-388">
+          <mxGeometry x="1" relative="1" as="geometry">
+            <mxPoint x="-31" y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
