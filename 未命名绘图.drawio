@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T03:32:35.360Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Y04A0y7rtzfxub7JnwIz" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T03:33:07.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RxMrO_FTi6UbVSlnAGcB" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="632" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1119,7 +1119,7 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="l2w6q-MAct6ojr39g6QR-356" value="&lt;font color=&quot;#ff0f0f&quot;&gt;商品ID&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=0;" parent="l2w6q-MAct6ojr39g6QR-352" vertex="1">
+        <mxCell id="l2w6q-MAct6ojr39g6QR-356" value="&lt;font color=&quot;#ff0f0f&quot;&gt;商品ID&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#ff72ff;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=0;" parent="l2w6q-MAct6ojr39g6QR-352" vertex="1">
           <mxGeometry x="180" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
