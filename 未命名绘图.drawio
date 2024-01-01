@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T09:14:12.199Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ov0dGPDuwXDEXph8m0KG" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T09:15:19.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="EBF0gsvmcGjEiadbfq1g" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="632" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1229,17 +1229,17 @@
         <mxCell id="EmhVWxg9xqdtuFrXkQp6-33" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-32">
           <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="EmhVWxg9xqdtuFrXkQp6-34" value="&lt;font color=&quot;#ffffff&quot;&gt;仓库&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#00A2FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-33">
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-34" value="&lt;font color=&quot;#ffffff&quot;&gt;仓库订单&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#00A2FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-33">
           <mxGeometry width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmhVWxg9xqdtuFrXkQp6-35" value="&lt;font color=&quot;#ff0808&quot;&gt;仓库号&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-33">
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-35" value="&lt;font color=&quot;#ff0808&quot;&gt;仓库号&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#ff8ae9;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-33">
           <mxGeometry x="60" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EmhVWxg9xqdtuFrXkQp6-36" value="仓库位置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-33">
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-36" value="&lt;font color=&quot;#ff0303&quot;&gt;订单号&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#ff8ae9;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-33">
           <mxGeometry x="120" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
