@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-01T03:33:07.813Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="RxMrO_FTi6UbVSlnAGcB" version="22.1.16" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-01T09:13:34.403Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="1zjcitVdOCL1-36wU44X" version="22.1.16" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="632" dy="458" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -917,10 +917,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-310" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="342.5" width="240" height="40" as="geometry" />
+          <mxGeometry x="2420" y="342.5" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-311" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="l2w6q-MAct6ojr39g6QR-310" vertex="1">
-          <mxGeometry width="240" height="40" as="geometry" />
+          <mxGeometry width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-312" value="&lt;font color=&quot;#ffffff&quot;&gt;商家&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#00A2FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" parent="l2w6q-MAct6ojr39g6QR-311" vertex="1">
           <mxGeometry width="60" height="40" as="geometry">
@@ -934,11 +934,6 @@
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-314" value="&lt;font color=&quot;#ff66ff&quot;&gt;网站名&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" parent="l2w6q-MAct6ojr39g6QR-311" vertex="1">
           <mxGeometry x="120" width="60" height="40" as="geometry">
-            <mxRectangle width="60" height="40" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="l2w6q-MAct6ojr39g6QR-315" value="&lt;font color=&quot;#ff66ff&quot;&gt;商品ID&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" parent="l2w6q-MAct6ojr39g6QR-311" vertex="1">
-          <mxGeometry x="180" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1098,8 +1093,11 @@
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="l2w6q-MAct6ojr39g6QR-351" target="EmhVWxg9xqdtuFrXkQp6-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-351" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="1" vertex="1">
-          <mxGeometry x="2420" y="835" width="240" height="40" as="geometry" />
+          <mxGeometry x="2330" y="880" width="240" height="40" as="geometry" />
         </mxCell>
         <mxCell id="l2w6q-MAct6ojr39g6QR-352" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="l2w6q-MAct6ojr39g6QR-351" vertex="1">
           <mxGeometry width="240" height="40" as="geometry" />
@@ -1199,6 +1197,27 @@
         <mxCell id="l2w6q-MAct6ojr39g6QR-389" value="N" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;fillColor=default;" parent="l2w6q-MAct6ojr39g6QR-388" connectable="0" vertex="1">
           <mxGeometry x="1" relative="1" as="geometry">
             <mxPoint x="-31" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-11" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="2650" y="880" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-12" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-11">
+          <mxGeometry width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-13" value="&lt;font color=&quot;#ffffff&quot;&gt;仓库&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=#00A2FF;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-12">
+          <mxGeometry width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-14" value="&lt;font color=&quot;#ff0808&quot;&gt;仓库号&lt;/font&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-12">
+          <mxGeometry x="60" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EmhVWxg9xqdtuFrXkQp6-15" value="仓库位置" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;startSize=0;" vertex="1" parent="EmhVWxg9xqdtuFrXkQp6-12">
+          <mxGeometry x="120" width="60" height="40" as="geometry">
+            <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
       </root>
